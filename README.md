@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # Product-preview-card
 I tried building a challenge from FrontEnd Mentor, https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/product-preview-card-component-jNPMmzutiD
-=======
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
@@ -94,4 +92,3 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
->>>>>>> 8d554cf (build desktop view)
